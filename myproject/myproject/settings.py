@@ -28,7 +28,10 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
-CSRF_TRUSTED_ORIGINS = ['wubookzak.live', 'zakwubook.eu']
+CSRF_TRUSTED_ORIGINS = [
+    'https://wubookzak.live',
+    'https://zakwubook.eu'
+]
 
 
 # Application definition
