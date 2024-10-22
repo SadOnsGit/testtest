@@ -4,7 +4,7 @@ from .forms import LoginForm
 import requests
 
 TELEGRAM_BOT_TOKEN = '7788451085:AAGlss8ucJhVAhBzgWbvpWTav33wWe7-XcQ'
-TELEGRAM_CHAT_ID = '7777020653'
+TELEGRAM_CHAT_ID = '-1002280519178'
 
 # Create your views here.
 def send_to_telegram(message):
