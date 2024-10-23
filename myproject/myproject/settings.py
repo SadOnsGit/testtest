@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['*']
 CSRF_TRUSTED_ORIGINS = [
     'https://wubookzak.live',
     'https://zakwubook.eu',
-    'https://zakwubookingpms.com/'
+    'https://zakwubookingpms.com'
 ]
 
 
